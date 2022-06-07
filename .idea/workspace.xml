@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f80b0cb-3dd8-4623-8895-d3a2e1093916" name="Changes" comment="sad">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/semify.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Player.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/signup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/SemiFy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/SemiFy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/SemiFy3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/tracks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/cat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/All the things she said....jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/Bang Bang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/Happier Than Ever.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/Killing Me Softly.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/Moral of the Story.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/abcdefu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/another love.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/boywithuke.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/oh girl it's you that i lie with.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/party favor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/All the things she said.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Bang Bang.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Bruno Mars - Talking To The Moon.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Bunny, Bunny, Bunny, you're so funny  - [ Slowed Version ].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/DANCING IN MY ROOM.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Drivers License  (slowed + Reverb) Olivia Rodrigo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Dua Lipa ‒ Bang Bang (My Baby Shot Me Down).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Frank Sinatra - Killing Me Softly.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Happier Than Ever.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Hermit The Frog.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/I wanna be your slave x Hot n cold.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/James Arthur - Train Wreck (Slowed).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Killing Me Softly.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Kokoronashi ver. Sou.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Moral of the Story.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Odo 踊 - Ado _ slowed+reverb _.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Oh girl.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Rae Sremmurd - Come Get Her (That Murdock Trap Bootleg).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Stay With Me - Miki Matsubara.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Still With You by JK of BTS.mp3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Television ∕ So Far So Good.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/The Night Begins to Shine.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Tokyo Revengers - Opening Full [Cry Baby].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/Woman - Doja Cat ft. Lucky Fraser.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/_Demi Lovato_ - Cool For The Summer (LRUwUr).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/abcdefu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/another love- tom odell (slowed+rain).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/another love.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/are you satisfied_ - marina and the diamonds [slowed n reverbed].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/boywithuke - all my friends are toxic, all ambitionless so rude and always negative.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/deja vu.mp3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/just come home....mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/lost boy by ruth b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/love nwantiti.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/party favor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/   .mp3" afterPathEscaped="$PROJECT_DIR$/public/songs_test/𝒊𝒏𝒅𝒊𝒍𝒂 𝒅𝒆𝒓𝒏𝒊𝒆𝒓𝒆 𝒅𝒂𝒏𝒔𝒆 𝒔𝒍𝒐𝒘𝒆𝒅.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/songs_test/    ....mp3" afterPathEscaped="$PROJECT_DIR$/public/songs_test/𝕷𝖊𝖙 𝖒𝖊 𝖇𝖊 𝖞𝖔𝖚𝖗 𝖜𝖔𝖒𝖆𝖓....mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/Cat.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/components/player.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AEkhmhmCDgf07vjiX3PbbFmvwR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f80b0cb-3dd8-4623-8895-d3a2e1093916" name="Changes" comment="" />
+      <created>1654582256926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654582256926</updated>
+      <workItem from="1654582262200" duration="333000" />
+      <workItem from="1654582611258" duration="207000" />
+      <workItem from="1654582834191" duration="3887000" />
+      <workItem from="1654602832661" duration="948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sad" />
+    <option name="LAST_COMMIT_MESSAGE" value="sad" />
+  </component>
+</project>
