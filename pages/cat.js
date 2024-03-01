@@ -75,6 +75,7 @@ export default function Cat() {
       </div>
       <div className={styles.main}>
         <div className={styles.songs_container}>
+          {/* loop throw the tracks */}
           {tracks.map((track, index) => (
             <div key={index} className={styles.song}>
               <div className={styles.song_play_btn} onClick={() => {
@@ -95,12 +96,7 @@ export default function Cat() {
           ))}
         </div>
         <div className={styles.player}>
-          <LPlayer
-            track={track}
-            setTrack={setTrack}
-            currentTime={currentTime}
-            setCurrentTime={setCurrentTime}
-          />
+          <LPlayer track={track} setTrack={setTrack} currentTime={currentTime} setCurrentTime={setCurrentTime}/>
         </div>
       </div>
     </div>
